@@ -52,7 +52,7 @@ A simple web-based Time Series Forecasting application built using **Flask**. Up
 ### 1. Clone the repository
 
 ~~~bash
-git clone https://github.com/VinitaChowkekar/Time-Series-App.git
+git clone https://github.com/Nuren97/Time-Series-Application.git
 cd your-repo-name
 ~~~
 
